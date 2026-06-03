@@ -317,7 +317,7 @@ pip install opencv-python
 # Running the Project
 
 ```bash
-python people_counter.py
+python Real-Time-Person-Count.py
 ```
 
 Press:
